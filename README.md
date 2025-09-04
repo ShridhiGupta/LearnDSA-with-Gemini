@@ -20,7 +20,7 @@ It politely explains Data Structures & Algorithms questions in the simplest way 
 ## 🏗️ Installation & Setup
 
 ```bash
-### 1. Clone the repo
+1. Clone the repo
 git clone https://github.com/ShridhiGupta/LearnDSA-with-Gemini.git
 cd LearnDSA-with-Gemini
 
