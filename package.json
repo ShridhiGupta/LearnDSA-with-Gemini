@@ -1,16 +1,18 @@
 {
-  "name": "gen-ai",
+  "name": "gemini-ai-dsa",
   "version": "1.0.0",
-  "description": "",
-  "license": "ISC",
-  "author": "",
+  "description": "Interactive DSA learning with Google's Gemini AI",
+  "license": "MIT",
+  "author": "Shridhi Gupta",
   "type": "module",
-  "main": "LLM.js",
+  "main": "GeminiAI.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node GeminiAI.js",
+    "test": "echo \"No test specified\" && exit 1"
   },
   "dependencies": {
     "@google/genai": "^1.16.0",
-    "readline-sync": "^1.4.10"
+    "readline-sync": "^1.4.10",
+    "dotenv": "^16.4.5"
   }
 }
