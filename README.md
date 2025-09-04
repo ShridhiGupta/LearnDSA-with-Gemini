@@ -19,11 +19,11 @@ It politely explains Data Structures & Algorithms questions in the simplest way 
 
 ## 🏗️ Installation & Setup
 
-### 1. Clone the repo
 ```bash
+### 1. Clone the repo
 git clone https://github.com/ShridhiGupta/LearnDSA-with-Gemini.git
 cd LearnDSA-with-Gemini
-```bash
+
 
 2. Install dependencies
 npm install
