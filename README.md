@@ -2,19 +2,25 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange.svg)](../../issues)
 
-An interactive terminal chatbot powered by Google Gemini AI that acts as your DSA Instructor.
+An **interactive terminal chatbot** powered by Google Gemini AI that acts as your **DSA Instructor**.
+
 It politely explains Data Structures & Algorithms questions in the simplest way — but replies rudely if you ask anything off-topic 😅.
 
-🚀 Features
+---
 
-📘 Learn DSA – Get simple, clear explanations for your DSA queries.
-😏 Rude Mode – Non-DSA questions get savage replies.
-⚡ Powered by Google Gemini – Built using the @google/genai package.
-🔄 Continuous Conversations – Maintains chat history for context.
-🛠️ Node.js CLI Tool – Lightweight, fast, and developer-friendly.
+## 🚀 Features
+- 📘 Learn DSA – Get simple, clear explanations for your DSA queries.
+- 😏 Rude Mode – Non-DSA questions get savage replies.
+- ⚡ Powered by Google Gemini – Built using the @google/genai package.
+- 🔄 Continuous Conversations – Maintains chat history for context.
+- 🛠️ Node.js CLI Tool – Lightweight, fast, and developer-friendly.
 
-🏗️ Installation & Setup
-1. Clone the repo
+---
+
+## 🏗️ Installation & Setup
+
+### 1. Clone the repo
+```bash
 git clone https://github.com/ShridhiGupta/LearnDSA-with-Gemini.git
 cd LearnDSA-with-Gemini
 
@@ -58,6 +64,3 @@ For major changes, open an issue first to discuss what you’d like to improve.
 This project is licensed under the MIT License.
 
 ⭐ If you like this project, don’t forget to star the repo!
-Unlock more with Plus
-ChatGPT Plus gives you higher limits, smarter models, and Sora for video.
-Upgrade
